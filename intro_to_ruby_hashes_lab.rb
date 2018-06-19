@@ -9,7 +9,10 @@ def actor
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+	  :the_hat =>{},
+	  :the_car =>{}
+	}
 
 end
 
