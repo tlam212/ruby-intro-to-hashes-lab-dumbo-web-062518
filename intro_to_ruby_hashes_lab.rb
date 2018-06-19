@@ -10,8 +10,8 @@ end
 
 def monopoly
 	monopoly = {
-	  :the_hat =>{},
-	  :the_car =>{}
+	  :the_hat => {},
+	  :the_car => {}
 	}
 
 end
